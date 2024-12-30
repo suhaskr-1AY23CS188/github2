@@ -1,8 +1,12 @@
 hi i am suhas
 18 years old
 <<<<<<< HEAD
+<<<<<<< HEAD
 studying in computer science and engineering
 acharya institute of technology
 =======
 benglore
 >>>>>>> user
+=======
+benglore
+>>>>>>> db14137 (file added)
